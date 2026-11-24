@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Simple 7 segment display driver
+"Simple 7 segment display driver"
 
 ## How to test
 
-Use a bit input to driver a decimal display
+"Use a bit input to driver a decimal display"
 
 ## External hardware
 
-Common catode 7 segment display
+"Common catode 7 segment display"
